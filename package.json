@@ -3,7 +3,7 @@
   "version": "0.0.7",
   "main": "./index.mjs",
   "devDependencies": {
-    "@opencode-ai/plugin": "^0.4.45"
+    "@opencode-ai/plugin": "^1.1.8"
   },
   "dependencies": {
     "@openauthjs/openauth": "^0.4.3"
